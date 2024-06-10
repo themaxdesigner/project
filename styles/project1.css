@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+body{
+    background-color: rgb(250, 250, 250);
+    font-family: Heebo, sans-serif;
+    line-height: 1.5;
+    overflow-x: hidden;
+    text-size-adjust: 100%;
+}
+.challenge{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-weight: bold;
+
+}
+.looking{
+    background-color:
+    #6666ff;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 250px;
+  
+}
+.looking{
+    display: block;
+        margin-top: 10px;
+        padding: 10px 15px;
+        background-color: #007BFF;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+}
+.looking a {
+    color: white;
+}
+header{
+    display: flex;
+    margin-top: 30px;
+
+}
+.frontend{
+    margin-left: 5em    ;
+}
+.navbar{
+    margin-left: 30em;
+  
+    
+}
+.navbar a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+.start{
+    background-color: #e96767;
+    text-decoration: none;
+    border: 50px;
+    color:white;
+    border-style: solid;
+    border-width: 5px}
+
+
+.start {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 10px 15px;
+        background-color: #007BFF;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;}
+  
+    
+
+.firststage{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    gap: 30px;
+    box-shadow: #fff;
+
+    padding: 10px;
+   
+   
+}
+.img1{
+ 
+    height: 400px;
+}
+.secondstage{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    gap: 30px;
+    padding: 10px;
+  
+}
+    
+
+@media screen  and (max-740){
+    
+    
+}
